@@ -6,9 +6,9 @@ This repository contains code to analyze 4D-STEM datasets of nanomaterials. The 
 
 There are scripts available for preprocessing the raw data, applying virtual detectors to it, segmenting the sample region under investigation using k-means clustering, and finding common patterns within the data using non-negative matrix factorization. Additionally, it includes a script to create a core-shell nanoparticle model out of a single-domain nanoparticle model.
 
-If you use the code, **please cite the following preprint**: 
+If you use the code, **please cite the following paper**: 
 
-* Identifying Structure-Stability Relationships in Individual Pt-Alloy Nanoparticles Using Identical-Location 4D-STEM and Unsupervised Machine Learning. *ChemRxiv* (2024). https://doi.org/10.26434/chemrxiv-2024-x6f6m
+* Structure-Stability Relationships in Pt-Alloy Nanoparticles Using Identical-Location Four-Dimensional Scanning Transmission Electron Microscopy and Unsupervised Machine Learning. *ACS Nano* (2025). https://doi.org/10.1021/acsnano.4c12528
 
 Example results for the local crystal structure analysis with 4D-STEM:
 
